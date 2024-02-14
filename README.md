@@ -1,0 +1,1 @@
+This is an SQL project on analysis of IPL season 2019-2023. The deliveries file contains ball-by-ball data of each match played seasons during 2019-2023 while the ipl_2019_2023 file contains match-by-match data of each match played during these seasons.
